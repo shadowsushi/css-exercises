@@ -1,0 +1,18 @@
+.odd-numbered {
+    background-color: hotpink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#second-element {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth-element {
+    background-color: lightgreen;
+    font-weight: bold;
+}
